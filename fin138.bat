@@ -1,0 +1,1 @@
+F:\FinRelease\fin.exe "%~dp0"
